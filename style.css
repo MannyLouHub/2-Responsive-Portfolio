@@ -26,7 +26,7 @@ div {
   font-size: 40px;
 }
 
-h2{
+h2 {
   font-family: "Josefin Sans", sans-serif;
 }
 
@@ -34,15 +34,37 @@ h2{
   width: 100%;
 }
 
-.voxed {
-    height: 200px;
+
+.bgimg {
+  background-size: cover;
+  background-position: center;
+
+  min-height: 300px;
 }
 
-.bgimg{
-
+.imgtype0 {
+  background-image: url(./Assets/Images/pixabay-325782_640.jpg);
+}
+.imgtype1 {
+  background-image: url(./Assets/Images/game-4664475_640.jpg);
+}
+.imgtype2 {
+  background-image: url(./Assets/Images/sean-benesh-1D9aRAjKtGA-unsplash.jpg);
+}
+.imgtype3 {
+  background-image: url(./Assets/Images/waldemar-brandt-3zml4wkcZis-unsplash.jpg);
+}
+.imgtype4 {
+  background-image: url(./Assets/Images/marcus-wallis-R1qHDAEnCmc-unsplash.jpg);
+}
+.imgtype5 {
+  background-image: url(./Assets/Images/jungwoo-hong-cYUMaCqMYvI-unsplash.jpg);
 }
 
-
-.imgtype0{
-  background-image: url(./Assets/Images/pixabay-325782_640.jpg) ;
+.styletext {
+  color: white;
+  font-family: "Galada", cursive;
+  background-color: gray;
+  width: 100%;
+  font-size: 40px;
 }
