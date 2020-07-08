@@ -1,34 +1,48 @@
-
-           
-}
-body{
+body {
   background-color: gray;
 }
 
 .profile-photo {
-
   max-height: 325px;
   max-width: 325px;
 }
 
-
 div {
-    border:solid 1px;
-    min-height: 50px;
+  border: solid 1px;
+  min-height: 50px;
 }
 .row {
-    border: solid red;
+  border: solid red;
 }
-.navbar{
+.navbar {
   font-size: 20px;
-  font-family: 'Josefin Sans', sans-serif;
-  ;
+  font-family: "Josefin Sans", sans-serif;
 }
-.name{
+.name {
+  text-align: center;
+  color: white;
+  font-family: "Galada", cursive;
+  font-weight: 900;
+  font-size: 40px;
+}
 
-    text-align: center;
-    color: white;  
-    font-family: 'Galada', cursive;
-    font-weight: 900;
-    font-size: 40px;
-    
+h2{
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.width {
+  width: 100%;
+}
+
+.voxed {
+    height: 200px;
+}
+
+.bgimg{
+
+}
+
+
+.imgtype0{
+  background-image: url(./Assets/Images/pixabay-325782_640.jpg) ;
+}
