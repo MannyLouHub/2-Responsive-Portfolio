@@ -15,7 +15,7 @@ body {
 .name {
     text-align: center;
     color: white;
-    font-family: "Galada", cursive;
+    /*font-family: "Galada", cursive;*/
     font-weight: 900;
     font-size: 40px;
 }
