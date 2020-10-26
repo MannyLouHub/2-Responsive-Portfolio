@@ -15,7 +15,6 @@ body {
 .name {
     text-align: center;
     color: white;
-    /*font-family: "Galada", cursive;*/
     font-weight: 900;
     font-size: 40px;
 }
@@ -32,7 +31,7 @@ h2 {
 .bgimg {
     background-size: cover;
     background-position: center;
-
+    background-image: url(./Assets/Images/bgimg.jpg);
     min-height: 300px;
 }
 
@@ -47,12 +46,12 @@ h2 {
 }
 
 .imgtype2 {
-    background-image: url(./Assets/Images/sean-benesh-1D9aRAjKtGA-unsplash.jpg);
+    background-image: url(./Assets/Images/freestocks-11SgH7U6TmI-unsplash.jpg);
     color: white;
 }
 
 .imgtype3 {
-    background-image: url(./Assets/Images/waldemar-brandt-3zml4wkcZis-unsplash.jpg);
+    background-image: url(./Assets/Images/craig-whitehead-SuJp8ZpkubI-unsplash.jpg);
     color: white;
 }
 
@@ -69,7 +68,7 @@ h2 {
 .styletext {
     color: white;
     font-family: "Galada", cursive;
-    background-color: black;
+    /*background-color: black;*/
     width: 100%;
     font-size: 40px;
 }
@@ -86,12 +85,12 @@ h2 {
 /*}*/
 
 a:hover {
-    color: red;
+    color: lightskyblue;
     background-color: transparent;
     text-decoration: underline;
 }
 a:active {
-    color: yellow;
+    color: darkblue;
     background-color: transparent;
     text-decoration: underline;
 }
